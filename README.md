@@ -8,7 +8,7 @@
 
 <p align="left">
 ✨ Criando bugs desde 2023 (e corrigindo com café e persistência!);<br>
-📚 Tenho me dedicado a projetos práticos envolvendo HTML, CSS, JavaScript, React, Java, Spring Boot e Kotlin, buscando sempre evoluir tanto no front-end quanto no back-end;<br>
+📚 Tenho me dedicado a projetos práticos envolvendo HTML, CSS, JavaScript, React, Java, Spring Boot e SQL, buscando sempre evoluir tanto no front-end quanto no back-end;<br>
 🎯 Objetivos: Desenvolver projetos completos para o portfólio, aprimorar minhas habilidades técnicas e colaborar em soluções reais;<br>
 🎲 Curiosidade: Apaixonada por games! Quando não estou codando, estou explorando o mundo dos games.</p>
 
