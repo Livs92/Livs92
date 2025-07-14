@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Lívia Silveira da Rosa e atualmente estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas, com previsão de conclusão em dezembro de 2025. Sou apaixonada por tecnologia, aprendizado contínuo e pelo desenvolvimento de soluções que realmente fazem a diferença no dia a dia das pessoas.</p>
+<p align="left">Me chamo Lívia Silveira da Rosa e atualmente estou no 5º semestre do curso de Análise e Desenvolvimento de Sistemas, com previsão de conclusão em dezembro de 2025. Sou apaixonada por tecnologia, aprendizado contínuo e pelo desenvolvimento de soluções que realmente fazem a diferença no dia a dia das pessoas.</p>
 
 ###
 
